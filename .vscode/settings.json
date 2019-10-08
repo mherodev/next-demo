@@ -1,0 +1,6 @@
+{
+  "search.exclude": {
+    "test/coverage": true,
+  },
+  "eslint.autoFixOnSave": true
+}

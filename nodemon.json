@@ -1,0 +1,4 @@
+{
+  "exec": ["npm run dev:nodemon-exec"],
+  "watch": ["src/server.js", "src/routes.js"]
+}
